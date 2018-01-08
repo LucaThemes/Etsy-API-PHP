@@ -1,0 +1,13 @@
+{  
+   "values":{  
+      "callback_url":"URL",
+	  "scope":"SCOPE_SEPARATED_BY_SPACE",
+      "oauth_consumer_key":"0amw3u07apohilx97fgs2hwp",
+      "oauth_consumer_secret":"8cznuaq04h",
+      "oauth_req_token":"caed32da173cac8b08f7471cbcc6f9",
+      "oauth_req_token_secret":"56e780a0a8",
+      "oauth_verifier":"66392c83",
+      "oauth_token":"fa3c843103cdda41836fb319f65b25",
+      "oauth_token_secret":"2b1ec0ff27"
+   }
+}
